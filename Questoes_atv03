@@ -1,0 +1,17 @@
+OBJETIVO 01: Listar os recursos da linguagem de programação  e situações onde é utilizada.
+QUESTÃO 01: Em que situação deve ser utilizada a variável float?
+
+OBJETIVO 02: Reconhecer os ambientes de programação para o Python e os recursos computacionais para utilizá-lo.
+QUESTÃO 02: Além do VSCODE, existe outra IDE que "rode" Python?
+
+OBJETIVO 03: Lembrar, reconhecer e usar comentários variáveis e tipos e operadores em Python.
+QUESTÃO 03: Qual a diferença entre um operador String e  Bool?
+
+OBJETIVO 04: Utilizar a ferramenta de desenvolvimento para escrever comandos de entrada e saída na linguagem.
+QUESTÃO 04: qual a função do compando input?
+
+OBJETIVO 05: Utilizar ferramentas de debug para visualizar variáveis e sequência de código.
+QUESTÃO 05: o que acontece ao clicar em "run" após escrever o comando
+Peso = 87
+Altura = 1.53
+ICM = Peso/(Altura**2)?
